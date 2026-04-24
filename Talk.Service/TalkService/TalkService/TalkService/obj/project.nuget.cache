@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wmN5VlY+qUI=",
+  "success": true,
+  "projectFilePath": "C:\\My project\\Talk\\talk\\Talk.Service\\TalkService\\TalkService\\TalkService\\TalkService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivap\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\sivap\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
