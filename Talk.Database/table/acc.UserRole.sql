@@ -1,0 +1,7 @@
+CREATE TABLE acc.UserRole(
+	Id			INT				IDENTITY(1, 1),
+	Name		NVARCHAR(20)	NOT NULL,
+	Description NVARCHAR(50)	NULL,
+	IsActive	BIT				NOT NULL,
+	CONSTRAINT Pk_UserRole_Id PRIMARY KEY (Id)
+)

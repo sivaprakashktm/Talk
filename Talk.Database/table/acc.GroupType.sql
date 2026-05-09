@@ -1,0 +1,7 @@
+CREATE TABLE acc.GroupType(
+	Id			INT				IDENTITY(1, 1),
+	Name		NVARCHAR(20)	NOT NULL,
+	Description NVARCHAR(MAX)	NULL,
+	IsActive	BIT				NOT NULL,
+	CONSTRAINT Pk_GroupType_Id PRIMARY KEY (Id)
+)
