@@ -3,6 +3,7 @@ CREATE TABLE [acc].[Profile](
 	FirstName			NVARCHAR(20)	NOT NULL,
 	LastName			NVARCHAR(20)	NOT NULL,
 	Email				NVARCHAR(MAX)	NOT NULL,
+	Bio					NVARCHAR(MAX)	NOT NULL,
 	UserId				INT				NULL,
 	PictureId			INT				NULL,
 	IsActive			BIT				NOT NULL,
